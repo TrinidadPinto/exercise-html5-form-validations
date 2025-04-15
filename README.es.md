@@ -2,7 +2,7 @@
 # Validaciones de formulario HTML5
 <!--endhide-->
 
-Después de crear el HTML y el CSS para este formulario, debemos asegurarnos de que evite que el usuario envíe un formulario con la información o el formato incorrectos. En el desarrollo web, lo llamamos: Validación de formularios. Dale un vistazo a la [documentación oficial](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation).
+Después de crear el HTML y el CSS para este formulario, debemos asegurarnos de que se evite que el usuario envíe un formulario con la información o el formato incorrectos. En el desarrollo web, lo llamamos: Validación de formularios. Dale un vistazo a la [documentación oficial](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation).
 
 Para evitar que se envíe un formulario, tenemos que escuchar el evento "enviar" que se activa con el formulario cuando el usuario presiona: la tecla Intro / Retorno o el botón Enviar.
 
@@ -12,13 +12,13 @@ Si quieres saber más sobre como prevenir los eventos: [https://www.youtube.com/
 
 ## 🌱  Cómo iniciar este proyecto
 
-No clones este repositorio. El primer paso para comenzar a codificar es clonar el [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) en tu compjutador local o con Gitpod.
+No clones este repositorio. El primer paso para comenzar a codificar es clonar el [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) en tu computador local o con Gitpod.
 
 a) Si usas Gitpod puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/vanillajs-hello).
 
 b) Si trabajas localmente, escribe el siguiente comando en tu terminal:
 ```sh
-git clone hhttps://github.com/4GeeksAcademy/vanillajs-hello
+git clone https://github.com/4GeeksAcademy/vanillajs-hello
 ```
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
